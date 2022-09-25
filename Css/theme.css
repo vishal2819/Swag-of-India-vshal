@@ -1,0 +1,75 @@
+.d-flex{
+    display: flex;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.justify-content-space-between{
+    justify-content: space-between;
+}
+.justify-content-space-evenly{
+    justify-content: space-evenly;
+}
+.align-items-center{
+    align-items: center;
+}
+.text-decoration-none{
+    text-decoration: none;
+}
+.w-70{
+    width: 70%;
+}
+.w-100{
+    width:100%;
+}
+.fw-bold{
+    font-weight: bold;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
+.flex-direction-column{
+    flex-direction: column;
+}
+.justify-content-start{
+    justify-content: start;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.round-icon{
+    border-radius: 20px;
+}
+.orange{
+    color: orange;
+}
+.green{
+    color: green;
+}
+.f-20{
+    font-size: 20px;
+}
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
